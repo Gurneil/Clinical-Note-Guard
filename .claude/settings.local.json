@@ -6,7 +6,11 @@
       "PowerShell(& py -3.13 -c \"import sys; sys.path.insert\\(0,'d:/clinical-note-guard/src'\\); import pipeline\")",
       "PowerShell(& D:\\\\Python312\\\\python.exe \"C:\\\\Users\\\\Geel\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\d--clinical-note-guard\\\\636c979f-3a34-413c-a18f-0e0bef33527f\\\\scratchpad\\\\test_node4.py\")",
       "PowerShell(& D:\\\\Python312\\\\python.exe -m pip install -q -r d:\\\\clinical-note-guard\\\\requirements.txt 2>&1)",
-      "PowerShell(& D:\\\\Python312\\\\python.exe -c \"import openai, google.genai; print\\('openai', openai.__version__\\)\")"
+      "PowerShell(& D:\\\\Python312\\\\python.exe -c \"import openai, google.genai; print\\('openai', openai.__version__\\)\")",
+      "PowerShell(& D:\\\\Python312\\\\python.exe -m pip install -q python-dotenv 2>&1)",
+      "PowerShell(& D:\\\\Python312\\\\python.exe -c \"import dotenv; print\\('dotenv', dotenv.__version__ if hasattr\\(dotenv,'__version__'\\) else 'OK'\\)\")",
+      "Bash(git add *)",
+      "Bash(git -c user.name=\"Geel\" -c user.email=\"samuelclaude9000@gmail.com\" commit -q -F \"/c/Users/Geel/AppData/Local/Temp/claude/d--clinical-note-guard/636c979f-3a34-413c-a18f-0e0bef33527f/scratchpad/commitmsg_env.txt\")"
     ]
   }
 }
