@@ -16,7 +16,8 @@
       "Bash(git -c user.name=\"Geel\" -c user.email=\"samuelclaude9000@gmail.com\" commit -q -F \"/c/Users/Geel/AppData/Local/Temp/claude/d--clinical-note-guard/636c979f-3a34-413c-a18f-0e0bef33527f/scratchpad/commitmsg_benchmark.txt\")",
       "Bash(git -c user.name=\"Geel\" -c user.email=\"samuelclaude9000@gmail.com\" commit -q -F \"/c/Users/Geel/AppData/Local/Temp/claude/d--clinical-note-guard/636c979f-3a34-413c-a18f-0e0bef33527f/scratchpad/commitmsg_docs.txt\")",
       "Bash(git -c user.name=\"Geel\" -c user.email=\"samuelclaude9000@gmail.com\" commit -q -F \".scratch/commitmsg_autoscore.txt\")",
-      "Bash(git -c user.name=\"Geel\" -c user.email=\"samuelclaude9000@gmail.com\" commit -q -F \".scratch/commitmsg_truncation.txt\")"
+      "Bash(git -c user.name=\"Geel\" -c user.email=\"samuelclaude9000@gmail.com\" commit -q -F \".scratch/commitmsg_truncation.txt\")",
+      "Bash(git -c user.name=\"Geel\" -c user.email=\"samuelclaude9000@gmail.com\" commit -q -F \".scratch/commitmsg_jsonretry.txt\")"
     ]
   }
 }
