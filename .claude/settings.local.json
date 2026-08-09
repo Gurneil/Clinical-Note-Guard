@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(& py -3.13 --version)",
+      "PowerShell(& py -3.13 -c \"import google.genai, openai; print\\('genai OK'\\); print\\('openai OK', openai.__version__\\)\")",
+      "PowerShell(& py -3.13 -c \"import sys; sys.path.insert\\(0,'d:/clinical-note-guard/src'\\); import pipeline\")",
+      "PowerShell(& D:\\\\Python312\\\\python.exe \"C:\\\\Users\\\\Geel\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\d--clinical-note-guard\\\\636c979f-3a34-413c-a18f-0e0bef33527f\\\\scratchpad\\\\test_node4.py\")"
+    ]
+  }
+}
