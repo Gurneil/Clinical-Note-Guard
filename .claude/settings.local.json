@@ -19,7 +19,8 @@
       "Bash(git -c user.name=\"Geel\" -c user.email=\"samuelclaude9000@gmail.com\" commit -q -F \".scratch/commitmsg_truncation.txt\")",
       "Bash(git -c user.name=\"Geel\" -c user.email=\"samuelclaude9000@gmail.com\" commit -q -F \".scratch/commitmsg_jsonretry.txt\")",
       "Bash(git -c user.name=\"Geel\" -c user.email=\"samuelclaude9000@gmail.com\" commit -q -F \".scratch/commitmsg_precision.txt\")",
-      "Bash(git -c user.name=\"Geel\" -c user.email=\"samuelclaude9000@gmail.com\" commit -q -F \".scratch/commitmsg_precision2.txt\")"
+      "Bash(git -c user.name=\"Geel\" -c user.email=\"samuelclaude9000@gmail.com\" commit -q -F \".scratch/commitmsg_precision2.txt\")",
+      "Bash(git -c user.name=\"Geel\" -c user.email=\"samuelclaude9000@gmail.com\" commit -q -F \".scratch/commitmsg_temperature.txt\")"
     ]
   }
 }
