@@ -45,7 +45,17 @@
       "Bash(timeout 90 ./.demo_venv/Scripts/python.exe demo.py 2)",
       "Bash(./.demo_venv/Scripts/python.exe demo.py)",
       "Bash(echo \"EXIT: $?\")",
-      "Bash(git -c user.name=\"Geel\" -c user.email=\"samuelclaude9000@gmail.com\" commit -q -F \".scratch/commitmsg_demo.txt\")"
+      "Bash(git -c user.name=\"Geel\" -c user.email=\"samuelclaude9000@gmail.com\" commit -q -F \".scratch/commitmsg_demo.txt\")",
+      "WebFetch(domain:claude.ai)",
+      "Bash(start \"\" \"D:\\\\clinical-note-guard\\\\frontend\\\\index.html\")",
+      "Bash(cmd.exe /c start \"\" \"D:\\\\clinical-note-guard\\\\frontend\\\\index.html\")",
+      "Bash(gh api *)",
+      "WebFetch(domain:github.com)",
+      "Bash(npm --version)",
+      "Bash(npm install *)",
+      "Read(//d//**)",
+      "Bash(mkdir -p /d/npm-global)",
+      "Bash(npm uninstall *)"
     ]
   }
 }
