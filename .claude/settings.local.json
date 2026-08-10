@@ -26,7 +26,14 @@
       "PowerShell(& D:\\\\Python312\\\\python.exe -c \"import matplotlib; print\\('matplotlib', matplotlib.__version__\\)\" 2>&1)",
       "PowerShell(& D:\\\\Python312\\\\python.exe -m pip install -q matplotlib 2>&1)",
       "PowerShell(& D:\\\\Python312\\\\python.exe -c \"import matplotlib; print\\('matplotlib', matplotlib.__version__\\)\")",
-      "Bash(git -c user.name=\"Geel\" -c user.email=\"samuelclaude9000@gmail.com\" commit -q -F \".scratch/commitmsg_flowchart.txt\")"
+      "Bash(git -c user.name=\"Geel\" -c user.email=\"samuelclaude9000@gmail.com\" commit -q -F \".scratch/commitmsg_flowchart.txt\")",
+      "Skill(fewer-permission-prompts)",
+      "Skill(fewer-permission-prompts:*)",
+      "Bash(ls -la ~/.claude/projects/ 2>/dev/null | head -30)",
+      "Read(//c/Users/Geel/.claude/projects/**)",
+      "Bash(ls -la ~/.claude/projects/d--clinical-note-guard/ 2>/dev/null)",
+      "Read(//c/Users/Geel/.claude/projects/d--clinical-note-guard/**)",
+      "PowerShell(D:\\\\Python312\\\\python.exe D:\\\\clinical-note-guard\\\\docs\\\\generate_samples_doc.py)"
     ]
   }
 }
