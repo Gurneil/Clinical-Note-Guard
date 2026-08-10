@@ -35,7 +35,17 @@
       "Read(//c/Users/Geel/.claude/projects/d--clinical-note-guard/**)",
       "PowerShell(D:\\\\Python312\\\\python.exe D:\\\\clinical-note-guard\\\\docs\\\\generate_samples_doc.py)",
       "Bash(git -c user.name=\"Geel\" -c user.email=\"samuelclaude9000@gmail.com\" commit -q -F \".scratch/commitmsg_samples.txt\")",
-      "Bash(git -c user.name=\"Geel\" -c user.email=\"samuelclaude9000@gmail.com\" commit -q -F \".scratch/commitmsg_readme_final.txt\")"
+      "Bash(git -c user.name=\"Geel\" -c user.email=\"samuelclaude9000@gmail.com\" commit -q -F \".scratch/commitmsg_readme_final.txt\")",
+      "Bash(D:/Python312/python.exe -m venv /d/clinical-note-guard/.demo_venv)",
+      "Bash(./.demo_venv/Scripts/python.exe -m pip install -q -r requirements.txt)",
+      "Bash(./.demo_venv/Scripts/python.exe -c ' *)",
+      "Bash(./.demo_venv/Scripts/python.exe -m unittest discover -s tests)",
+      "Bash(./.demo_venv/Scripts/python.exe demo.py 6 --no-review)",
+      "Bash(yes y *)",
+      "Bash(timeout 90 ./.demo_venv/Scripts/python.exe demo.py 2)",
+      "Bash(./.demo_venv/Scripts/python.exe demo.py)",
+      "Bash(echo \"EXIT: $?\")",
+      "Bash(git -c user.name=\"Geel\" -c user.email=\"samuelclaude9000@gmail.com\" commit -q -F \".scratch/commitmsg_demo.txt\")"
     ]
   }
 }
