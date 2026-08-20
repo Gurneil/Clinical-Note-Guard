@@ -37,7 +37,7 @@ human-in-the-loop  hackathon
 ## Then push
 
 ```
-git remote add origin https://github.com/Gurneil/clinical-note-guard.git
+git remote add origin https://github.com/Gurneil/Clinical-Note-Guard.git
 git push -u origin master
 ```
 
